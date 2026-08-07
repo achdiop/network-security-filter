@@ -158,11 +158,11 @@ This is one of two Bloom filter implementations built for the same DSA coursewor
 ## 🤝 Team
 This project was a collaborative team effort.
 
-| Name | GitHub | Contribution |
-| :--- | :--- | :--- |
-| **Abbas Dar** | [@achdiop](https://github.com/achdiop) | Worked on the Network Security Filter including the VM setup |
-| **Muhammad Saad Masood** | [@](https://github.com/) | Worked on the Digital Detox including the custom browser extension setup |
-| **Syed Aayan Rizvi** | [@](https://github.com/) | Coordinated with both the teammates and worked on documentations and presentations |
+| Name | Contribution |
+| :--- | :--- |
+| [**Abbas Dar**](https://github.com/achdiop) | Worked on the Network Security Filter including the VM setup |
+| [**Muhammad Saad Masood**](https://github.com/) | Worked on the Digital Detox including the custom browser extension setup |
+| [**Syed Aayan Rizvi**](https://github.com/) | Coordinated with both the teammates and worked on documentations and presentations |
 
 ---
 

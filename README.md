@@ -162,7 +162,7 @@ This project was a collaborative team effort.
 | :--- | :--- |
 | [**Abbas Dar**](https://github.com/achdiop) | Worked on the Network Security Filter including the VM setup |
 | [**Muhammad Saad Masood**](https://github.com/) | Worked on the Digital Detox including the custom browser extension setup |
-| [**Syed Aayan Rizvi**](https://github.com/) | Coordinated with both the teammates and worked on documentations and presentations |
+| [**Syed Aayan Rizvi**](https://github.com/AAyannn-del) | Coordinated with both the teammates and worked on documentations and presentations |
 
 ---
 
